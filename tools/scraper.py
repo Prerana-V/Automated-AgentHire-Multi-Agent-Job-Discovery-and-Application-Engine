@@ -74,8 +74,6 @@ def scrape_jobs(
                 "description": desc[:40000],
                 "url": str(row.get("job_url", "")),
                 "source": source,
-                # "salary_min": _safe_int(row.get("min_amount")),
-                # "salary_max": _safe_int(row.get("max_amount")),
                 "posted_date": str(row.get("date_posted", "")),
                 "job_type": str(row.get("job_type", "")),
             }
