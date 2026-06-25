@@ -1,0 +1,15 @@
+groq
+openai
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+python-dotenv
+aiohttp
+aiofiles
+rich
+jinja2
+pydantic
+httpx
+fake-useragent
+lxml

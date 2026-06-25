@@ -1,0 +1,16 @@
+Subject: Application for AI Engineer – Proven AI Model Development & Production Experience
+
+Dear Hiring Team,
+
+I am writing to express my interest in the AI Engineer role at Keywords Studios. In my current position at Mirafra Technology, I designed and launched a Flask‑based AI resume evaluation platform that handles over 100 resumes each day while maintaining roughly 90 % candidate ranking accuracy. This experience directly aligns with the responsibility of developing AI models that deliver reliable, real‑world outcomes.
+
+A core part of the role involves integrating AI solutions into production pipelines. To that end, I integrated Celery and Redis into the same platform, cutting asynchronous task latency and improving overall system reliability by 45 %. Additionally, I evaluated and fine‑tuned more than ten transformer‑based models using Hugging Face, achieving a 20 % speed increase without sacrificing the ~95 % matching accuracy required for downstream tasks.
+
+Beyond model development, I have a proven record of translating data insights into actionable improvements. While building machine‑learning models for predictive analytics, I lifted prediction performance by 15 % across a dataset of 100 K+ records through rigorous feature engineering and model optimization.
+
+I am eager to bring this blend of model‑centric development, performance engineering, and production deployment to Keywords Studios, contributing to AI‑driven experiences that resonate with gamers worldwide.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background can support your AI initiatives.
+
+Sincerely,
+Prerana Varshney

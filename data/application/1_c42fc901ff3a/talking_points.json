@@ -1,0 +1,7 @@
+[
+  "Designed and fine\u2011tuned LLMs for a high\u2011throughput resume evaluation platform (~90% accuracy).",
+  "Improved model evaluation speed by 20% while maintaining ~95% matching accuracy.",
+  "Integrated Celery and Redis, increasing platform reliability by 45% for asynchronous AI workflows.",
+  "Delivered a 15% boost in prediction performance through feature engineering and TensorFlow models.",
+  "Built end\u2011to\u2011end Flask APIs and deployment pipelines for generative AI services."
+]

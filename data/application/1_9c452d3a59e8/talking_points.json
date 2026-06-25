@@ -1,0 +1,6 @@
+[
+  "Built a Flask\u2011based AI resume evaluation platform processing 100+ resumes/day with ~90\u202f% accuracy.",
+  "Improved model evaluation speed by 20\u202f% while keeping ~95\u202f% matching accuracy.",
+  "Integrated Celery and Redis, boosting platform reliability by 45\u202f% and enabling asynchronous task execution.",
+  "Developed and optimized 10+ LLM/transformer models, enhancing workflow performance."
+]

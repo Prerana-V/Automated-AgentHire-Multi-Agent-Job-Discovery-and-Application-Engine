@@ -1,0 +1,14 @@
+Subject: Application for Data Scientist – Prerana Varshney
+
+Dear Hiring Committee,
+
+My recent work at Mirafra Technology directly aligns with the core responsibilities of the Data Scientist role at Ingersoll Rand. I have built and deployed scalable machine‑learning models that process over 100 resumes daily, achieving roughly 90 % ranking accuracy. This experience equips me to develop and deploy robust predictive models that drive operational efficiency for your industrial solutions.
+
+In addition, I designed and maintained end‑to‑end data pipelines handling more than 100 K records, incorporating preprocessing, feature engineering, and validation steps. By integrating Celery and Redis, I increased platform reliability by 45 % and reduced evaluation latency by 20 % without sacrificing the 95 % matching accuracy. These results demonstrate my ability to design and maintain data pipelines that support high‑throughput analytics.
+
+Finally, I routinely evaluate model performance, having optimized over ten transformer‑based models using Hugging Face and cloud AI services. My systematic approach to model evaluation and iterative improvement mirrors the responsibility of continuously monitoring and refining model outputs.
+
+I am eager to bring this blend of production‑ready ML engineering, pipeline reliability, and rigorous model evaluation to Ingersoll Rand’s data science team. Thank you for considering my application.
+
+Sincerely,
+Prerana Varshney

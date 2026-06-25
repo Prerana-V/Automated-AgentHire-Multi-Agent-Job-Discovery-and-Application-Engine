@@ -1,0 +1,12 @@
+Subject: Application for Artificial Intelligence Engineer – Prerana Varshney
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Artificial Intelligence Engineer role at AiSensy. In my current position at Mirafra Technology, I designed and launched a Flask‑based AI resume evaluation platform that processes over 100 resumes daily and achieves roughly 90 % ranking accuracy. By evaluating and fine‑tuning more than ten LLM and transformer models, I reduced evaluation latency by 20 % while preserving a 95 % matching accuracy. Integrating Celery and Redis further boosted platform reliability by 45 % through asynchronous task handling.
+
+Two core responsibilities of this role—building scalable AI applications and optimizing model performance—directly align with my recent work. My experience constructing end‑to‑end pipelines, from data preprocessing of 100 K+ records to deploying TensorFlow models that improved prediction performance by 15 %, equips me to deliver robust solutions at AiSensy. Additionally, my background in prompt engineering and RAG pipelines positions me to contribute to any generative‑AI initiatives you pursue.
+
+I am eager to bring my proven track record of measurable impact and my deep familiarity with the Python‑TensorFlow‑Hugging Face stack to your team. Thank you for considering my application.
+
+Sincerely,
+Prerana Varshney

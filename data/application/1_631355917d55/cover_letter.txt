@@ -1,0 +1,14 @@
+Subject: Application for Python Generative AI Engineer – Proven AI Platform Delivery
+
+Dear Hiring Team,
+
+My recent work at Mirafra Technology directly aligns with the core needs of a Python Generative AI Engineer at Innova ESI. I designed and launched a Flask‑driven resume evaluation platform that processes over 100 resumes daily, achieving roughly 90 % ranking accuracy. This experience gave me deep practical exposure to building end‑to‑end Python services that serve AI models in real time.
+
+In parallel, I evaluated and fine‑tuned more than ten transformer‑based models using Hugging Face, cutting evaluation latency by 20 % while preserving a 95 % matching accuracy. The same optimization mindset helped me improve prediction performance on a TensorFlow model by 15 % for a separate analytics project. Both initiatives required rigorous prompt engineering, feature engineering, and model evaluation—skills that map cleanly onto the generative AI workflows outlined for this role.
+
+Beyond model work, I integrated Celery and Redis to enable asynchronous task execution, boosting platform reliability by 45 %. The resulting infrastructure is both scalable and maintainable, ready for the kind of production‑grade deployments Innova ESI pursues.
+
+I am eager to bring this blend of Python development, generative AI expertise, and performance‑focused engineering to your team. Thank you for considering my application.
+
+Sincerely,
+Prerana Varshney

@@ -1,0 +1,16 @@
+Subject: Application for Generative AI Engineer – Prerana Varshney
+
+Dear Hiring Team,
+
+My recent work at Mirafra Technology aligns closely with the core duties of a Generative AI Engineer at Recro. I have designed and fine‑tuned large language models for resume evaluation, achieving ~90% candidate ranking accuracy while processing over 100 resumes each day. By streamlining the evaluation workflow, I reduced model inference time by 20% without sacrificing the ~95% matching precision.
+
+In addition, I built end‑to‑end pipelines that integrate Hugging Face transformers with Flask APIs, and I introduced Celery and Redis to handle asynchronous tasks, raising platform reliability by 45%. These experiences directly support the responsibility of developing scalable generative AI pipelines and ensuring robust deployment.
+
+I also collaborated with product and engineering teams to embed AI services into existing workflows, translating model outputs into actionable business insights that improved prediction performance by 15% on a separate analytics project. My background in feature engineering, predictive modeling, and computer‑vision applications equips me to contribute across the diverse AI initiatives outlined for this role.
+
+I am eager to bring this blend of research‑grade model work and production engineering to Recro, helping the company advance its generative AI roadmap.
+
+Thank you for considering my application.
+
+Sincerely,
+Prerana Varshney

@@ -1,0 +1,2582 @@
+[
+  {
+    "job_id": "adc3a6e96a39",
+    "title": "Machine Learning Engineer",
+    "company": "Docusign",
+    "url": "https://www.linkedin.com/jobs/view/4377628100",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:25:34.282217",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/adc3a6e96a39"
+  },
+  {
+    "job_id": "636c3cf10ab4",
+    "title": "AI Engineer",
+    "company": "GitLab",
+    "url": "https://www.linkedin.com/jobs/view/4427064475",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:25:41.858712",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/636c3cf10ab4"
+  },
+  {
+    "job_id": "a76ae7e7565e",
+    "title": "Applied AI/ML Engineer",
+    "company": "Google",
+    "url": "https://www.linkedin.com/jobs/view/4417139457",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:25:50.498208",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/a76ae7e7565e"
+  },
+  {
+    "job_id": "43f54fae7fc1",
+    "title": "Python ML Engineer",
+    "company": "Infosys",
+    "url": "https://www.linkedin.com/jobs/view/4417504005",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:25:58.058327",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/43f54fae7fc1"
+  },
+  {
+    "job_id": "012aa523e026",
+    "title": "AI Engineer ($150k-$300k + Equity) at Vibecode",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/4427284544",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:26:06.910262",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/012aa523e026"
+  },
+  {
+    "job_id": "818548239b83",
+    "title": "AI Engineer ($180K \u2013 $250K + Equity) at BUILD,",
+    "company": "Jack & Jill",
+    "url": "https://www.linkedin.com/jobs/view/4427288133",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:26:15.139652",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/818548239b83"
+  },
+  {
+    "job_id": "081ff3b4558b",
+    "title": "Applied AI Engineer",
+    "company": "xAI",
+    "url": "https://www.linkedin.com/jobs/view/4246546678",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:26:22.923546",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/081ff3b4558b"
+  },
+  {
+    "job_id": "ff189bb6df3c",
+    "title": "AI/ML Engineering (All Levels)",
+    "company": "Toast",
+    "url": "https://www.linkedin.com/jobs/view/4423619050",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:26:31.729264",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/ff189bb6df3c"
+  },
+  {
+    "job_id": "43f54fae7fc1",
+    "title": "Python ML Engineer",
+    "company": "Infosys",
+    "url": "https://www.linkedin.com/jobs/view/4417504005",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-14T00:26:39.626048",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/43f54fae7fc1"
+  },
+  {
+    "job_id": "1ac719fbf845",
+    "title": "AI Engineer",
+    "company": "BeSpoke AI Stylist Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=d0725f90df9ec59f",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-14T00:26:49.163492",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/1ac719fbf845"
+  },
+  {
+    "job_id": "5afd622024f6",
+    "title": "Data Scientist",
+    "company": "Equifax",
+    "url": "https://www.linkedin.com/jobs/view/4426918532",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000102a86f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000102a7f134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x000000010252b3a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000102573924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x00000001025b2d9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000102569314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000102a45a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x0000000102a491ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000102a2b648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000102a49a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000102a1c870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000102a6dec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000102a6e020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000102a7ed8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "8155e27a2c2b",
+    "title": "Data Scientist",
+    "company": "Shipt",
+    "url": "https://www.linkedin.com/jobs/view/4393986140",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000102a96f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000102a8f134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x000000010253b3a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000102583924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x00000001025c2d9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000102579314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000102a55a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x0000000102a591ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000102a3b648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000102a59a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000102a2c870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000102a7dec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000102a7e020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000102a8ed8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "2c45da7c47a0",
+    "title": "Data Scientist III",
+    "company": "Walmart",
+    "url": "https://www.linkedin.com/jobs/view/4424842270",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x000000010475ef88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000104757134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x00000001042033a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x000000010424b924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x000000010428ad9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000104241314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x000000010471da30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x00000001047211ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000104703648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000104721a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x00000001046f4870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000104745ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000104746020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000104756d8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "1f2a78bf7357",
+    "title": "Data Scientist",
+    "company": "OCBC",
+    "url": "https://www.linkedin.com/jobs/view/4418095157",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000102fa2f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000102f9b134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x0000000102a473a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000102a8f924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x0000000102aced9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000102a85314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000102f61a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x0000000102f651ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000102f47648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000102f65a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000102f38870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000102f89ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000102f8a020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000102f9ad8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "5446204df725",
+    "title": "Data Scientist",
+    "company": "Multitude",
+    "url": "https://www.linkedin.com/jobs/view/4398501208",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x000000010543ef88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000105437134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x0000000104ee33a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000104f2b924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x0000000104f6ad9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000104f21314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x00000001053fda30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x00000001054011ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x00000001053e3648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000105401a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x00000001053d4870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000105425ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000105426020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000105436d8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "74431b8d3a77",
+    "title": "Data Scientist",
+    "company": "Jobber",
+    "url": "https://www.linkedin.com/jobs/view/4420700035",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000100d96f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000100d8f134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x000000010083b3a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000100883924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x00000001008c2d9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000100879314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000100d55a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x0000000100d591ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000100d3b648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000100d59a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000100d2c870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000100d7dec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000100d7e020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000100d8ed8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "08b330de1181",
+    "title": "Data Scientist",
+    "company": "Robert Half",
+    "url": "https://www.linkedin.com/jobs/view/4426614632",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000100c3af88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x0000000100c33134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x00000001006df3a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000100727924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x0000000100766d9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x000000010071d314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000100bf9a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x0000000100bfd1ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000100bdf648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000100bfda40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000100bd0870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000100c21ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x0000000100c22020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x0000000100c32d8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "89507bfaf3ad",
+    "title": "AI Engineer",
+    "company": "WENdiversity",
+    "url": "https://www.linkedin.com/jobs/view/4426245427",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x00000001026f2f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x00000001026eb134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x00000001021973a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x00000001021df924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x000000010221ed9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x00000001021d5314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x00000001026b1a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x00000001026b51ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x0000000102697648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x00000001026b5a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x0000000102688870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x00000001026d9ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x00000001026da020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x00000001026ead8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "66d86fd896a1",
+    "title": "Machine Learning Engineer",
+    "company": "Faculty",
+    "url": "https://www.linkedin.com/jobs/view/4424869262",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000100732f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x000000010072b134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x00000001001d73a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x000000010021f924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x000000010025ed9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000100215314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x00000001006f1a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x00000001006f51ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x00000001006d7648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x00000001006f5a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x00000001006c8870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x0000000100719ec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x000000010071a020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x000000010072ad8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "74fca19d32f3",
+    "title": "Machine Learning Engineer",
+    "company": "Barclays",
+    "url": "https://www.linkedin.com/jobs/view/4424809923",
+    "status": "failed",
+    "match_score": 92,
+    "applied_at": null,
+    "notes": "Submit result: error: Message: \nStacktrace:\n0   chromedriver                        0x0000000100966f88 cxxbridge1$str$ptr + 3190432\n1   chromedriver                        0x000000010095f134 cxxbridge1$str$ptr + 3158092\n2   chromedriver                        0x000000010040b3a8 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74080\n3   chromedriver                        0x0000000100453924 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 370396\n4   chromedriver                        0x0000000100492d9c _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 629588\n5   chromedriver                        0x0000000100449314 _RNvCs9NA52FrZ4pF_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 327884\n6   chromedriver                        0x0000000100925a30 cxxbridge1$str$ptr + 2922824\n7   chromedriver                        0x00000001009291ac cxxbridge1$str$ptr + 2937028\n8   chromedriver                        0x000000010090b648 cxxbridge1$str$ptr + 2815328\n9   chromedriver                        0x0000000100929a40 cxxbridge1$str$ptr + 2939224\n10  chromedriver                        0x00000001008fc870 cxxbridge1$str$ptr + 2754440\n11  chromedriver                        0x000000010094dec0 cxxbridge1$str$ptr + 3087832\n12  chromedriver                        0x000000010094e020 cxxbridge1$str$ptr + 3088184\n13  chromedriver                        0x000000010095ed8c cxxbridge1$str$ptr + 3157156\n14  libsystem_pthread.dylib             0x000000019f66ec0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x000000019f669b80 thread_start + 8\n"
+  },
+  {
+    "job_id": "a0e3ded33363",
+    "title": "AI Scientists",
+    "company": "Efestos Hub",
+    "url": "https://www.linkedin.com/jobs/view/4427961105",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:37:51.589780",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/a0e3ded33363"
+  },
+  {
+    "job_id": "aa02d21b82ad",
+    "title": "Data Scientist",
+    "company": "Microsoft",
+    "url": "https://www.linkedin.com/jobs/view/4358193119",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:00.219569",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/aa02d21b82ad"
+  },
+  {
+    "job_id": "030890fe67be",
+    "title": "Machine Learning Engineer",
+    "company": "E-Solutions",
+    "url": "https://www.linkedin.com/jobs/view/4425985939",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:09.010156",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/030890fe67be"
+  },
+  {
+    "job_id": "edf8fbf4686e",
+    "title": "Associate Data Scientist",
+    "company": "Yext",
+    "url": "https://www.linkedin.com/jobs/view/4416705341",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:16.707046",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/edf8fbf4686e"
+  },
+  {
+    "job_id": "9264c5eeb169",
+    "title": "Data Scientist Specialist",
+    "company": "Banco Bradesco",
+    "url": "https://www.linkedin.com/jobs/view/4418031756",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:26.007881",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/9264c5eeb169"
+  },
+  {
+    "job_id": "b9041a0427f1",
+    "title": "Data Scientist",
+    "company": "Forbes Advisor",
+    "url": "https://www.linkedin.com/jobs/view/4325461135",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:33.826502",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b9041a0427f1"
+  },
+  {
+    "job_id": "c1eebf4d5afe",
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "url": "https://www.linkedin.com/jobs/view/4425751972",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:42.395188",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c1eebf4d5afe"
+  },
+  {
+    "job_id": "80117bd8d87d",
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "url": "https://www.linkedin.com/jobs/view/4425757858",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:49.994326",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/80117bd8d87d"
+  },
+  {
+    "job_id": "c855b91abbd3",
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "url": "https://www.linkedin.com/jobs/view/4425747975",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:38:58.005611",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c855b91abbd3"
+  },
+  {
+    "job_id": "5da693db92fb",
+    "title": "Junior Data Scientist",
+    "company": "avua",
+    "url": "https://www.linkedin.com/jobs/view/4428614746",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-15T14:39:05.638746",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/5da693db92fb"
+  },
+  {
+    "job_id": "c660021d1265",
+    "title": "AI Engineer [T500-26658]",
+    "company": "Officeworks GCC India",
+    "url": "https://www.linkedin.com/jobs/view/4428697925",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:53.906757",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c660021d1265"
+  },
+  {
+    "job_id": "05af679ead80",
+    "title": "AI Assurance Engineer",
+    "company": "Qualitest",
+    "url": "https://www.linkedin.com/jobs/view/4425326339",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:54.117132",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/05af679ead80"
+  },
+  {
+    "job_id": "f9b29c09b245",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "url": "https://www.linkedin.com/jobs/view/4385474463",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:54.344147",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/f9b29c09b245"
+  },
+  {
+    "job_id": "8c9d6786dc84",
+    "title": "AI, Principal Engineer",
+    "company": "Synopsys Inc",
+    "url": "https://www.linkedin.com/jobs/view/4418091676",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:54.547340",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8c9d6786dc84"
+  },
+  {
+    "job_id": "a6a911644890",
+    "title": "Senior AI Engineer",
+    "company": "EPAM Systems",
+    "url": "https://www.linkedin.com/jobs/view/4399524728",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:54.759118",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/a6a911644890"
+  },
+  {
+    "job_id": "7888d124608c",
+    "title": "Senior AI Engineer",
+    "company": "Teradata",
+    "url": "https://www.linkedin.com/jobs/view/4376438862",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:54.967171",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/7888d124608c"
+  },
+  {
+    "job_id": "69b31d7b1011",
+    "title": "Senior AI Engineer",
+    "company": "Teradata",
+    "url": "https://www.linkedin.com/jobs/view/4397635100",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:55.174022",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/69b31d7b1011"
+  },
+  {
+    "job_id": "1c2b8b67dfa4",
+    "title": "Senior AI Engineer",
+    "company": "Teradata",
+    "url": "https://www.linkedin.com/jobs/view/4397634140",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:55.379875",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/1c2b8b67dfa4"
+  },
+  {
+    "job_id": "8c191162a1f5",
+    "title": "AI Engineer (Fresher / Entry-Level)",
+    "company": "Keywords Studios",
+    "url": "https://www.linkedin.com/jobs/view/4428813505",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:55.589274",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8c191162a1f5"
+  },
+  {
+    "job_id": "f14741077a56",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "url": "https://www.linkedin.com/jobs/view/4385779278",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:04:55.798350",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/f14741077a56"
+  },
+  {
+    "job_id": "8c191162a1f5",
+    "title": "AI Engineer (Fresher / Entry-Level)",
+    "company": "Keywords Studios",
+    "url": "https://www.linkedin.com/jobs/view/4428813505",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:43:56.099892",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8c191162a1f5"
+  },
+  {
+    "job_id": "d7974415f475",
+    "title": "Agentic AI Engineer",
+    "company": "Mindsprint",
+    "url": "https://www.linkedin.com/jobs/view/4427489045",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:55:22.765146",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d7974415f475"
+  },
+  {
+    "job_id": "24072c59cd0a",
+    "title": "AI Engineer",
+    "company": "ValueMomentum",
+    "url": "https://www.linkedin.com/jobs/view/4427486354",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:55:26.202421",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/24072c59cd0a"
+  },
+  {
+    "job_id": "ec4ffb28fff7",
+    "title": "AI Engineer",
+    "company": "Blend",
+    "url": "https://www.linkedin.com/jobs/view/4428697913",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:55:36.369911",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/ec4ffb28fff7"
+  },
+  {
+    "job_id": "05af679ead80",
+    "title": "AI Assurance Engineer",
+    "company": "Qualitest",
+    "url": "https://www.linkedin.com/jobs/view/4425326339",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:55:54.226550",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/05af679ead80"
+  },
+  {
+    "job_id": "9d7be83d3536",
+    "title": "AI Systems Engineer (Agentic Development)",
+    "company": "Soar",
+    "url": "https://www.linkedin.com/jobs/view/4425739392",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:56:13.102839",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/9d7be83d3536"
+  },
+  {
+    "job_id": "c6c3ff9a81f0",
+    "title": "Generative AI Engineer",
+    "company": "Objectways",
+    "url": "https://www.linkedin.com/jobs/view/4427446094",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:57:03.588200",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c6c3ff9a81f0"
+  },
+  {
+    "job_id": "55d45b69022d",
+    "title": "Artificial Intelligence Engineer",
+    "company": "AiSensy",
+    "url": "https://www.linkedin.com/jobs/view/4425376291",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:57:06.455114",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/55d45b69022d"
+  },
+  {
+    "job_id": "0f66d72b7fb0",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "url": "https://www.linkedin.com/jobs/view/4414352635",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:57:08.982447",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0f66d72b7fb0"
+  },
+  {
+    "job_id": "a6a911644890",
+    "title": "Senior AI Engineer",
+    "company": "EPAM Systems",
+    "url": "https://www.linkedin.com/jobs/view/4399524728",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:57:27.255578",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/a6a911644890"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T15:57:46.429836",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "f9b29c09b245",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "url": "https://www.linkedin.com/jobs/view/4385474463",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T23:47:12.744785",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/f9b29c09b245"
+  },
+  {
+    "job_id": "bb9720bb8e9b",
+    "title": "Machine Learning Engineer (Gen AI)",
+    "company": "Quantiphi",
+    "url": "https://www.linkedin.com/jobs/view/4426828676",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-16T23:47:15.309732",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bb9720bb8e9b"
+  },
+  {
+    "job_id": "631355917d55",
+    "title": "Python Generative AI Engineer",
+    "company": "Innova ESI",
+    "url": "https://www.linkedin.com/jobs/view/4428813991",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:47:26.704440",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/631355917d55"
+  },
+  {
+    "job_id": "efd65c0a51b4",
+    "title": "Senior AI Developer",
+    "company": "Aurigo Software Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4427493093",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:47:49.206681",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/efd65c0a51b4"
+  },
+  {
+    "job_id": "11116c1406a1",
+    "title": "Data Science Engineer \u2013 Generative AI & Machine Learning",
+    "company": "InfoVision Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4427482562",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:48:04.356169",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/11116c1406a1"
+  },
+  {
+    "job_id": "c42fc901ff3a",
+    "title": "Generative AI Engineer",
+    "company": "Recro",
+    "url": "https://www.linkedin.com/jobs/view/4427707068",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:48:25.914718",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c42fc901ff3a"
+  },
+  {
+    "job_id": "85dcf4d9eeb7",
+    "title": "Data Scientist",
+    "company": "Ingersoll Rand Compressor Systems & Services",
+    "url": "https://www.linkedin.com/jobs/view/4427493556",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:48:44.933421",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/85dcf4d9eeb7"
+  },
+  {
+    "job_id": "05af679ead80",
+    "title": "AI Assurance Engineer",
+    "company": "Qualitest",
+    "url": "https://www.linkedin.com/jobs/view/4425326339",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:49:04.231495",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/05af679ead80"
+  },
+  {
+    "job_id": "9c452d3a59e8",
+    "title": "Data Scientist",
+    "company": "Ingersoll Rand",
+    "url": "https://www.linkedin.com/jobs/view/4428858654",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-16T23:49:23.209513",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/9c452d3a59e8"
+  },
+  {
+    "job_id": "8c191162a1f5",
+    "title": "AI Engineer (Fresher / Entry-Level)",
+    "company": "Keywords Studios",
+    "url": "https://www.linkedin.com/jobs/view/4428813505",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-17T16:29:54.004744",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8c191162a1f5"
+  },
+  {
+    "job_id": "6d80d7533590",
+    "title": "Junior Data Scientist",
+    "company": "Datamatics Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4427319605",
+    "status": "applied",
+    "match_score": 88,
+    "applied_at": "2026-06-17T16:29:57.375446",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/6d80d7533590"
+  },
+  {
+    "job_id": "d706460fc469",
+    "title": "Data Scientist",
+    "company": "NielsenIQ",
+    "url": "https://www.linkedin.com/jobs/view/4427482921",
+    "status": "applied",
+    "match_score": 87,
+    "applied_at": "2026-06-17T16:30:09.972478",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d706460fc469"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-17T16:30:32.533640",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-17T16:30:53.294756",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "0e3436214f4c",
+    "title": "Generative AI Engineer",
+    "company": "Anlage Digital",
+    "url": "https://www.linkedin.com/jobs/view/4424149517",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-17T16:31:01.118531",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0e3436214f4c"
+  },
+  {
+    "job_id": "f14741077a56",
+    "title": "AI / ML Engineer",
+    "company": "Accenture in India",
+    "url": "https://www.linkedin.com/jobs/view/4385779278",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-17T16:31:23.905663",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/f14741077a56"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 88,
+    "applied_at": "2026-06-18T00:42:59.135388",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "c42fc901ff3a",
+    "title": "Generative AI Engineer",
+    "company": "Recro",
+    "url": "https://www.linkedin.com/jobs/view/4427707068",
+    "status": "applied",
+    "match_score": 88,
+    "applied_at": "2026-06-18T00:43:01.816790",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c42fc901ff3a"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:43:13.056319",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "8c191162a1f5",
+    "title": "AI Engineer (Fresher / Entry-Level)",
+    "company": "Keywords Studios",
+    "url": "https://www.linkedin.com/jobs/view/4428813505",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:43:30.771874",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8c191162a1f5"
+  },
+  {
+    "job_id": "e202945bbd8d",
+    "title": "Generative AI Engineers",
+    "company": "Zensar Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4428443711",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:43:52.999521",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e202945bbd8d"
+  },
+  {
+    "job_id": "e3c3a255d85c",
+    "title": "Generative AI Engineer",
+    "company": "Birlasoft",
+    "url": "https://www.linkedin.com/jobs/view/4427376001",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:44:12.551940",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e3c3a255d85c"
+  },
+  {
+    "job_id": "d5fb8d574ce4",
+    "title": "Associate AI ML Engineer",
+    "company": "Optum India",
+    "url": "https://www.linkedin.com/jobs/view/4429545769",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:44:22.075310",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d5fb8d574ce4"
+  },
+  {
+    "job_id": "3c1fd12c4c99",
+    "title": "Gen AI",
+    "company": "Virtusa",
+    "url": "https://www.linkedin.com/jobs/view/4427351883",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:44:39.723455",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/3c1fd12c4c99"
+  },
+  {
+    "job_id": "bb9720bb8e9b",
+    "title": "Machine Learning Engineer (Gen AI)",
+    "company": "Quantiphi",
+    "url": "https://www.linkedin.com/jobs/view/4426828676",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T00:44:58.223449",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bb9720bb8e9b"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 88,
+    "applied_at": "2026-06-18T16:58:05.343633",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "e202945bbd8d",
+    "title": "Generative AI Engineers",
+    "company": "Zensar Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4428443711",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T16:58:08.639600",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e202945bbd8d"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T16:58:20.149895",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "0e3436214f4c",
+    "title": "Generative AI Engineer",
+    "company": "Anlage Digital",
+    "url": "https://www.linkedin.com/jobs/view/4424149517",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T16:58:42.447287",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0e3436214f4c"
+  },
+  {
+    "job_id": "c42fc901ff3a",
+    "title": "Generative AI Engineer",
+    "company": "Recro",
+    "url": "https://www.linkedin.com/jobs/view/4427707068",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T16:59:01.580463",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c42fc901ff3a"
+  },
+  {
+    "job_id": "368971ca8b61",
+    "title": "AI/ML Intern",
+    "company": "Aaizel International Technologies Pvt Ltd",
+    "url": "https://www.linkedin.com/jobs/view/4426847159",
+    "status": "applied",
+    "match_score": 92,
+    "applied_at": "2026-06-18T19:05:48.417356",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/368971ca8b61"
+  },
+  {
+    "job_id": "e202945bbd8d",
+    "title": "Generative AI Engineers",
+    "company": "Zensar Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4428443711",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T19:05:51.377872",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e202945bbd8d"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T19:06:01.725783",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "0e3436214f4c",
+    "title": "Generative AI Engineer",
+    "company": "Anlage Digital",
+    "url": "https://www.linkedin.com/jobs/view/4424149517",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T19:06:20.566418",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0e3436214f4c"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T19:06:30.051715",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "6317673c01e8",
+    "title": "Generative AI Engineer",
+    "company": "Donyati",
+    "url": "https://www.linkedin.com/jobs/view/4427732936",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-18T20:52:07.800472",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/6317673c01e8"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 88,
+    "applied_at": "2026-06-18T20:52:11.032079",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "e202945bbd8d",
+    "title": "Generative AI Engineers",
+    "company": "Zensar Technologies",
+    "url": "https://www.linkedin.com/jobs/view/4428443711",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T20:52:14.207626",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e202945bbd8d"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T20:52:25.776446",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "0e3436214f4c",
+    "title": "Generative AI Engineer",
+    "company": "Anlage Digital",
+    "url": "https://www.linkedin.com/jobs/view/4424149517",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T20:52:44.309083",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0e3436214f4c"
+  },
+  {
+    "job_id": "mock001",
+    "title": "Gen AI Engineer - Generative AI Engineer",
+    "company": "AI Vision Labs",
+    "url": "https://example.com/job/mock001",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T23:04:43.670368",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/mock001"
+  },
+  {
+    "job_id": "mock002",
+    "title": "Data Scientist - Generative AI Engineer",
+    "company": "DataNova Analytics",
+    "url": "https://example.com/job/mock002",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T23:04:46.839381",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/mock002"
+  },
+  {
+    "job_id": "mock003",
+    "title": "AI/ML Engineer - Generative AI Engineer",
+    "company": "NeuralEdge Systems",
+    "url": "https://example.com/job/mock003",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T23:05:01.633222",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/mock003"
+  },
+  {
+    "job_id": "38de8799e3f9",
+    "title": "Data Scientist",
+    "company": "Andor Tech",
+    "url": "https://www.linkedin.com/jobs/view/4430449827",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-18T23:16:06.278278",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/38de8799e3f9"
+  },
+  {
+    "job_id": "cbf138c10116",
+    "title": "Generative AI Engineer",
+    "company": "Sia",
+    "url": "https://www.linkedin.com/jobs/view/4429226727",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-18T23:16:09.654337",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/cbf138c10116"
+  },
+  {
+    "job_id": "0e3436214f4c",
+    "title": "Generative AI Engineer",
+    "company": "Anlage Digital",
+    "url": "https://www.linkedin.com/jobs/view/4424149517",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-18T23:16:12.900399",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0e3436214f4c"
+  },
+  {
+    "job_id": "8645043b8225",
+    "title": "Generative AI Engineer",
+    "company": "TrueBlue Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4428035118",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-18T23:16:35.361476",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8645043b8225"
+  },
+  {
+    "job_id": "6317673c01e8",
+    "title": "Generative AI Engineer",
+    "company": "Donyati",
+    "url": "https://www.linkedin.com/jobs/view/4427732936",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-18T23:16:54.209334",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/6317673c01e8"
+  },
+  {
+    "job_id": "b11a9df1e37a",
+    "title": "Data Scientist",
+    "company": "Tata CLiQ Fashion",
+    "url": "https://www.linkedin.com/jobs/view/4429256356",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-18T23:36:01.803756",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b11a9df1e37a"
+  },
+  {
+    "job_id": "883b93e56fe4",
+    "title": "Data Scientist",
+    "company": "Simelabs - Digital, AI/ML, Automation, Robotics, Gen AI.",
+    "url": "https://www.linkedin.com/jobs/view/4426823995",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-18T23:36:04.946354",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/883b93e56fe4"
+  },
+  {
+    "job_id": "901989779120",
+    "title": "Data Scientist",
+    "company": "EXL",
+    "url": "https://www.linkedin.com/jobs/view/4426476648",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-18T23:36:17.019236",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/901989779120"
+  },
+  {
+    "job_id": "eacd55201d69",
+    "title": "Data Scientist",
+    "company": "Tibil Solutions",
+    "url": "https://www.linkedin.com/jobs/view/4428456993",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-18T23:36:39.042182",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/eacd55201d69"
+  },
+  {
+    "job_id": "765cc501e182",
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "url": "https://www.linkedin.com/jobs/view/4401848888",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-19T23:53:21.700135",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/765cc501e182"
+  },
+  {
+    "job_id": "820e79478d0d",
+    "title": "Data Scientist-Data Science-Data Scientist",
+    "company": "EXL",
+    "url": "https://www.linkedin.com/jobs/view/4378319072",
+    "status": "applied",
+    "match_score": 89,
+    "applied_at": "2026-06-19T23:53:24.168718",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/820e79478d0d"
+  },
+  {
+    "job_id": "38de8799e3f9",
+    "title": "Data Scientist",
+    "company": "Andor Tech",
+    "url": "https://www.linkedin.com/jobs/view/4430449827",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-19T23:53:33.748007",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/38de8799e3f9"
+  },
+  {
+    "job_id": "2e8b862298cd",
+    "title": "Data Scientist",
+    "company": "Quess IT Staffing",
+    "url": "https://www.linkedin.com/jobs/view/4428457747",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-19T23:53:50.657784",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/2e8b862298cd"
+  },
+  {
+    "job_id": "c9315ee9775c",
+    "title": "Data Scientist I",
+    "company": "Mastercard",
+    "url": "https://www.linkedin.com/jobs/view/4416840119",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-19T23:54:04.060109",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9315ee9775c"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T22:20:21.660279",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T22:20:29.438192",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 84,
+    "applied_at": "2026-06-20T23:00:28.407586",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:00:40.905331",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:00:51.654688",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:01:20.645066",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "9bf90cec5be7",
+    "title": "Data Scientist",
+    "company": "A-Z for Remote jobs",
+    "url": "https://in.indeed.com/viewjob?jk=7f609a2d78f6b959",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:01:47.677549",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/9bf90cec5be7"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 84,
+    "applied_at": "2026-06-20T23:45:24.457523",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-20T23:45:36.545848",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-20T23:45:54.643537",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:46:17.412251",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:46:41.584268",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "9bf90cec5be7",
+    "title": "Data Scientist",
+    "company": "A-Z for Remote jobs",
+    "url": "https://in.indeed.com/viewjob?jk=7f609a2d78f6b959",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-20T23:47:02.712593",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/9bf90cec5be7"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:47:24.363031",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:47:50.907405",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:48:16.911134",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:48:33.879824",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:48:48.651206",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:49:03.086960",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-20T23:49:26.032781",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-21T00:21:32.013830",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-21T00:21:41.740091",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T00:22:01.397942",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T00:22:25.469049",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T00:22:50.153509",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T00:23:19.022322",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:23:42.638548",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:24:05.208604",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:24:30.499297",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:24:51.496669",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:25:06.840261",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T00:25:29.763182",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T17:51:05.572053",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T17:51:15.401769",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T17:51:39.667289",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:52:06.392868",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:52:31.076693",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:52:54.727462",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:53:18.209440",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:53:43.267748",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T17:54:06.821322",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-21T22:34:09.498444",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-21T22:34:19.022470",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T22:34:40.220176",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T22:35:05.014291",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:35:28.767396",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:35:46.863409",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:36:02.759054",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:36:25.505945",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:36:43.517252",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:37:08.411698",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:37:31.173046",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:37:47.325560",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T22:38:10.360288",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-21T23:13:29.893822",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-21T23:13:33.119793",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T23:13:57.514045",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "d8de090ee3f6",
+    "title": "AI SaaS Product Intern (Remote Training & Internship Program)",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=cd7c631cf1c61b31",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T23:14:20.964257",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d8de090ee3f6"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T23:14:46.973623",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-21T23:15:14.377323",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:15:35.110281",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:15:59.379593",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:16:21.091356",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:16:34.196786",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:16:58.465811",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:17:21.798840",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:17:37.260152",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-21T23:18:00.830102",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-22T00:45:27.309455",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-22T00:45:28.812556",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T00:45:30.244629",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T00:45:31.474258",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T00:45:32.610852",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T00:45:34.140459",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:35.570163",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:36.803505",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:38.132082",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:39.566265",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:40.942191",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:42.265282",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T00:45:43.766530",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-22T01:18:08.071822",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-22T01:18:17.588695",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T01:18:29.678106",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "d8de090ee3f6",
+    "title": "AI SaaS Product Intern (Remote Training & Internship Program)",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=cd7c631cf1c61b31",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T01:18:40.250950",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d8de090ee3f6"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T01:18:48.199811",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T01:19:00.286885",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:19:09.174795",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:19:21.295512",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:19:30.186571",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:19:43.394135",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:19:53.281591",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:20:06.231392",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:20:13.471823",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:20:27.692707",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T01:20:40.949633",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 84,
+    "applied_at": "2026-06-22T02:01:00.283478",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 78,
+    "applied_at": "2026-06-22T02:01:08.892587",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T02:01:21.176674",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "d8de090ee3f6",
+    "title": "AI SaaS Product Intern (Remote Training & Internship Program)",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=cd7c631cf1c61b31",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T02:01:29.871853",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/d8de090ee3f6"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T02:01:40.729746",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "40d842b72701",
+    "title": "Data Scientist",
+    "company": "Girl Effect",
+    "url": "https://in.indeed.com/viewjob?jk=1f592184256332e1",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T02:01:51.993870",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/40d842b72701"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:01.209189",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:12.948329",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:20.976675",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:28.756495",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "14da0d163f69",
+    "title": "AI Automation Specialist",
+    "company": "GROINSPIRE",
+    "url": "https://in.indeed.com/viewjob?jk=f4a1ced81e361a49",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:41.830382",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/14da0d163f69"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:02:55.663419",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "188559b89613",
+    "title": "Pro Prompt Engineer",
+    "company": "FlexTenure Solutions Pvt Ltd",
+    "url": "https://in.indeed.com/viewjob?jk=4b721b92b4552215",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:03:03.595981",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/188559b89613"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:03:16.409871",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "c3f3038e2a86",
+    "title": "AI Engineer(Remote, IND)",
+    "company": "CrowdStrike",
+    "url": "https://in.indeed.com/viewjob?jk=ac1accb0b8d0fdd0",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T02:03:30.621218",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c3f3038e2a86"
+  },
+  {
+    "job_id": "e3a8f73ca2be",
+    "title": "AI Engineer",
+    "company": "Noveum AI",
+    "url": "https://www.linkedin.com/jobs/view/4430546965",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-22T23:53:27.113913",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e3a8f73ca2be"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-22T23:53:35.112427",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "ca0b3e64d3d2",
+    "title": "AI Developer Enablement Engineer",
+    "company": "FactSet",
+    "url": "https://www.linkedin.com/jobs/view/4428938556",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-22T23:53:38.793696",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/ca0b3e64d3d2"
+  },
+  {
+    "job_id": "476f42044c1a",
+    "title": "Data Science & Machine Learning Intern",
+    "company": "Zaalima development",
+    "url": "https://in.indeed.com/viewjob?jk=e11c58579082278f",
+    "status": "applied",
+    "match_score": 84,
+    "applied_at": "2026-06-23T00:26:00.320791",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/476f42044c1a"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-23T00:26:10.613324",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "e3a8f73ca2be",
+    "title": "AI Engineer",
+    "company": "Noveum AI",
+    "url": "https://www.linkedin.com/jobs/view/4430546965",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-23T00:26:12.319132",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e3a8f73ca2be"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-23T00:26:22.551797",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "0fb2fb536c95",
+    "title": "AI Engineer (Gemini Enterprise)",
+    "company": "Techolution",
+    "url": "https://in.indeed.com/viewjob?jk=01bd32e24f129026",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-23T00:26:34.044172",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/0fb2fb536c95"
+  },
+  {
+    "job_id": "e2f9ce3014c5",
+    "title": "Prompt Engineer (Contract)",
+    "company": "NETomi",
+    "url": "https://in.indeed.com/viewjob?jk=fd11b36adfde4904",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-23T00:26:46.496431",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/e2f9ce3014c5"
+  },
+  {
+    "job_id": "bd50daa8b8c5",
+    "title": "AI Engineer (Gen AI)",
+    "company": "DICETEK LLC",
+    "url": "https://in.indeed.com/viewjob?jk=a916747a9007155c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:02.486442",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/bd50daa8b8c5"
+  },
+  {
+    "job_id": "7da92bb15f76",
+    "title": "Conversational AI Engineer (Voice Agent Configuration)",
+    "company": "Silicon Biztech Pvt. Ltd.",
+    "url": "https://in.indeed.com/viewjob?jk=47f9652e68a77001",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:05.881291",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/7da92bb15f76"
+  },
+  {
+    "job_id": "2cf125d159f1",
+    "title": "Automation Specialist",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=8bcb70c88b322978",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:14.952375",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/2cf125d159f1"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:29.517723",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:32.370456",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:48.489854",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "458d49421d14",
+    "title": "AI Engineer",
+    "company": "S9 Studio",
+    "url": "https://in.indeed.com/viewjob?jk=34013e42e1dc51c8",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:27:56.243569",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/458d49421d14"
+  },
+  {
+    "job_id": "ca0b3e64d3d2",
+    "title": "AI Developer Enablement Engineer",
+    "company": "FactSet",
+    "url": "https://www.linkedin.com/jobs/view/4428938556",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-23T00:28:01.145861",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/autonomous-job-agent/data/applications/ca0b3e64d3d2"
+  },
+  {
+    "job_id": "e3a8f73ca2be",
+    "title": "AI Engineer",
+    "company": "Noveum AI",
+    "url": "https://www.linkedin.com/jobs/view/4430546965",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-24T23:13:37.327609",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/e3a8f73ca2be"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-24T23:13:44.262325",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-24T23:13:56.315655",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "aaf5fd91ab3c",
+    "title": "Data Scientist",
+    "company": "Eminenture",
+    "url": "https://in.indeed.com/viewjob?jk=29699da8bb1f4062",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-24T23:14:01.352410",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/aaf5fd91ab3c"
+  },
+  {
+    "job_id": "5d5ebde0d665",
+    "title": "AI Developer (Backend)",
+    "company": "Tech Next",
+    "url": "https://in.indeed.com/viewjob?jk=b1d1ff307c3045a2",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:14:08.341969",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/5d5ebde0d665"
+  },
+  {
+    "job_id": "c09a9e8cc312",
+    "title": "MLOps",
+    "company": "Delphic Global",
+    "url": "https://in.indeed.com/viewjob?jk=0120504731d731e2",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:14:19.591327",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/c09a9e8cc312"
+  },
+  {
+    "job_id": "b76cf5dff5e3",
+    "title": "AI Automation Specialist",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=541532f0705003b7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:14:30.365603",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/b76cf5dff5e3"
+  },
+  {
+    "job_id": "8ba305413a7b",
+    "title": "Software Engineer I",
+    "company": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=b0ca6b9fb814991f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:14:42.355045",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8ba305413a7b"
+  },
+  {
+    "job_id": "7da92bb15f76",
+    "title": "Conversational AI Engineer (Voice Agent Configuration)",
+    "company": "Silicon Biztech Pvt. Ltd.",
+    "url": "https://in.indeed.com/viewjob?jk=47f9652e68a77001",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:14:54.354731",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/7da92bb15f76"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:15:02.469663",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:15:10.980461",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-24T23:15:23.443733",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "c9568e89b008",
+    "title": "AIML trainer",
+    "company": "RACE",
+    "url": "https://in.indeed.com/viewjob?jk=ba3f877bb05df33c",
+    "status": "applied",
+    "match_score": 85,
+    "applied_at": "2026-06-25T00:10:11.711834",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/c9568e89b008"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-25T00:10:15.417967",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "5fe9eae3a04e",
+    "title": "Software Development Intern (Training + Internship Program)",
+    "company": "lunetron web services",
+    "url": "https://in.indeed.com/viewjob?jk=fb00b2ce9105173b",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-25T00:10:18.195270",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/5fe9eae3a04e"
+  },
+  {
+    "job_id": "aaf5fd91ab3c",
+    "title": "Data Scientist",
+    "company": "Eminenture",
+    "url": "https://in.indeed.com/viewjob?jk=29699da8bb1f4062",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-25T00:10:20.511723",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/aaf5fd91ab3c"
+  },
+  {
+    "job_id": "765b29f985e0",
+    "title": "Hiring Python Developer Intern / Freelancer",
+    "company": "7Range Soft Solution",
+    "url": "https://in.indeed.com/viewjob?jk=280feed1504aed8e",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-25T00:10:23.385607",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/765b29f985e0"
+  },
+  {
+    "job_id": "e3a8f73ca2be",
+    "title": "AI Engineer",
+    "company": "Noveum AI",
+    "url": "https://www.linkedin.com/jobs/view/4430546965",
+    "status": "applied",
+    "match_score": 80,
+    "applied_at": "2026-06-25T00:10:27.579841",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/e3a8f73ca2be"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 72,
+    "applied_at": "2026-06-25T00:10:30.038198",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "8ba305413a7b",
+    "title": "Software Engineer I",
+    "company": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=b0ca6b9fb814991f",
+    "status": "applied",
+    "match_score": 70,
+    "applied_at": "2026-06-25T00:10:32.902612",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8ba305413a7b"
+  },
+  {
+    "job_id": "b76cf5dff5e3",
+    "title": "AI Automation Specialist",
+    "company": "nan",
+    "url": "https://in.indeed.com/viewjob?jk=541532f0705003b7",
+    "status": "applied",
+    "match_score": 68,
+    "applied_at": "2026-06-25T00:10:35.426704",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/b76cf5dff5e3"
+  },
+  {
+    "job_id": "7da92bb15f76",
+    "title": "Conversational AI Engineer (Voice Agent Configuration)",
+    "company": "Silicon Biztech Pvt. Ltd.",
+    "url": "https://in.indeed.com/viewjob?jk=47f9652e68a77001",
+    "status": "applied",
+    "match_score": 68,
+    "applied_at": "2026-06-25T00:10:38.946356",
+    "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/7da92bb15f76"
+  }
+]

@@ -1,0 +1,14 @@
+Subject: Application for Data Scientist – Prerana Varshney
+
+Dear Hiring Committee,
+
+I am writing to express my interest in the Data Scientist role at Ingersoll Rand Compressor Systems & Services. In my current position at Mirafra Technology, I designed and launched a Flask‑based AI resume evaluation platform that processes over 100 resumes daily and achieves approximately 90 % ranking accuracy. By integrating Celery and Redis, I increased the system’s reliability by 45 % and reduced evaluation latency by 20 % while preserving a 95 % matching accuracy. These outcomes demonstrate my ability to develop scalable machine‑learning services that meet strict performance targets.
+
+Two responsibilities outlined for this role—developing and deploying predictive models to enhance operational efficiency, and creating robust data pipelines for large‑scale analytics—align directly with my recent work. I built TensorFlow models that improved prediction performance by 15 % on datasets exceeding 100 K records, and I engineered end‑to‑end pipelines handling data ingestion, validation, and feature engineering. My experience fine‑tuning LLMs and constructing Retrieval‑Augmented Generation pipelines further equips me to extract actionable insights from complex industrial data.
+
+I am eager to bring this blend of model‑centric development and production engineering to Ingersoll Rand, helping the organization translate data into reliable, high‑impact solutions.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background can support your data‑driven initiatives.
+
+Sincerely,
+Prerana Varshney

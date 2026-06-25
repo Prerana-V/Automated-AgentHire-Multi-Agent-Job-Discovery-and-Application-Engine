@@ -1,0 +1,51 @@
+PRERANA
+[prerana@gmail.com](mailto:prerana@gmail.com) | +91-90XXXXXXXX
+https://www.linkedin.com/ | https://github.com/
+State, Country
+
+SUMMARY
+AI/ML Engineer and Data Scientist with hands-on experience in machine learning, deep learning, NLP, computer vision, and Generative AI. Experienced in building AI-driven solutions, fine-tuning models, resume evaluation systems, and predictive analytics using Python, TensorFlow, Hugging Face, and Scikit-learn. Seeking opportunities in AI/ML Engineering, Generative AI, and Data Science to build scalable, production-ready intelligent systems.
+
+SKILLS
+Languages: Python
+Frameworks: TensorFlow, Scikit-learn, NumPy, Matplotlib, Seaborn, Flask, Hugging Face Transformers
+Infrastructure: GitHub, Jupyter Notebook, VS Code, PyCharm, Celery, Redis
+Other: Machine Learning, Deep Learning, NLP, Generative AI, Computer Vision, Feature Engineering, Data Analysis, Data Visualization, Hyperparameter Tuning, Fine-Tuning LLMs, Transformers, CNN, Image Processing
+
+EXPERIENCE
+
+Training Engineer – Data Scientist & Gen AI
+
+* Developed a Flask-based AI resume evaluation platform processing 100+ resumes daily with 90% accuracy in candidate ranking.
+* Integrated Celery and Redis to resolve 100+ system issues, improving platform reliability by 45%.
+
+Training Engineer – Data Scientist & Operations
+
+* Developed machine learning models using Python and TensorFlow, improving model accuracy by 15%.
+* Contributed to data-driven decision-making improvements of 15% through analytics and model insights.
+
+DS & ML Intern
+
+* Built machine learning models using Python, improving trend prediction accuracy by 15%.
+* Applied preprocessing and feature engineering techniques, enhancing model performance by 10%.
+* Designed classification, regression, and clustering algorithms to improve business insights by 20%.
+
+EDUCATION
+M.Sc. in Data Science 
+B.Sc. General
+
+PROJECTS
+
+* Retrieval-Augmented Generation (RAG) Pipeline for Model Evaluation: Built a RAG pipeline to evaluate AI models for resume evaluation, integrating transformer-based retrieval and benchmarking workflows.
+* Auto Completion using N-gram from Scratch: Developed an N-gram language model for next-word prediction, improving prediction accuracy and reducing error rates through fine-tuning.
+* Face Mask Detection in Android: Built a TensorFlow Lite-based Android app for real-time face mask detection using CNNs, achieving ~95% accuracy.
+* Loan Defaulter Analysis (K-Fold CV & Gradient Boosting): Developed a predictive loan default model on 250K records using Gradient Boosting with 89% accuracy.
+
+CERTIFICATIONS
+
+* Edge AI — Edge Impulse
+* Edge AI: Tools and Best Practices for Building AI Applications at the Edge — LinkedIn
+* Machine Learning Operations (MLOps) for Generative AI — Google
+* Data Science A-Z: Hands-On Exercises & ChatGPT Prize [2024]
+* Data Analytics — LearnTube.ai
+* Python for Data Science, AI & Development — IBM

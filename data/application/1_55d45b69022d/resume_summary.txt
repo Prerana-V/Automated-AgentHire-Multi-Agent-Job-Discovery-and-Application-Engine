@@ -1,0 +1,1 @@
+AI/ML Engineer with 2+ years of hands‑on experience building production‑grade NLP and computer‑vision systems, optimizing transformer pipelines, and delivering measurable performance gains using Python, TensorFlow, and Hugging Face.
