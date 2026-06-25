@@ -49,8 +49,8 @@ class JobListing(BaseModel):
     description: str
     url: str
     source: str  # "indeed" | "linkedin" 
-    salary_min: Optional[int] = None
-    salary_max: Optional[int] = None
+    # salary_min: Optional[int] = None
+    # salary_max: Optional[int] = None
     posted_date: Optional[str] = None
     job_type: Optional[str] = None  # "full-time" | "remote" | etc.
     skills_required: List[str] = Field(default_factory=list)

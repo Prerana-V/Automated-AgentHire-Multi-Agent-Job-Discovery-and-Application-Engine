@@ -2578,5 +2578,115 @@
     "match_score": 68,
     "applied_at": "2026-06-25T00:10:38.946356",
     "notes": "[DRY RUN] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/7da92bb15f76"
+  },
+  {
+    "job_id": "066e6035d6ce",
+    "title": "AI/ML Engineer",
+    "company": "The Algorithm",
+    "url": "https://in.indeed.com/viewjob?jk=deeb6a62f854029b",
+    "status": "applied",
+    "match_score": 82,
+    "applied_at": "2026-06-25T15:33:00.089231",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/066e6035d6ce"
+  },
+  {
+    "job_id": "03c5f1d5c936",
+    "title": "AI Engineer l (Generative AI)",
+    "company": "MyAdvice",
+    "url": "https://in.indeed.com/viewjob?jk=a19ca53ae6bc2c4a",
+    "status": "applied",
+    "match_score": 75,
+    "applied_at": "2026-06-25T15:33:02.869002",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/03c5f1d5c936"
+  },
+  {
+    "job_id": "aaf5fd91ab3c",
+    "title": "Data Scientist",
+    "company": "Eminenture",
+    "url": "https://in.indeed.com/viewjob?jk=29699da8bb1f4062",
+    "status": "applied",
+    "match_score": 74,
+    "applied_at": "2026-06-25T15:33:06.574001",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/aaf5fd91ab3c"
+  },
+  {
+    "job_id": "5d5ebde0d665",
+    "title": "AI Developer (Backend)",
+    "company": "Tech Next",
+    "url": "https://in.indeed.com/viewjob?jk=b1d1ff307c3045a2",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:13.357594",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/5d5ebde0d665"
+  },
+  {
+    "job_id": "3af8319b8241",
+    "title": "Forward Deployed AI Engineer",
+    "company": "NewRocket",
+    "url": "https://in.indeed.com/viewjob?jk=24b1d82a814c3f16",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:16.102152",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/3af8319b8241"
+  },
+  {
+    "job_id": "05e58de4f0d0",
+    "title": "AI Automation Executive",
+    "company": "AppExert",
+    "url": "https://in.indeed.com/viewjob?jk=9c8273a9c5fb8384",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:19.981347",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/05e58de4f0d0"
+  },
+  {
+    "job_id": "8ba305413a7b",
+    "title": "Software Engineer I",
+    "company": "Indeed",
+    "url": "https://in.indeed.com/viewjob?jk=b0ca6b9fb814991f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:24.900831",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8ba305413a7b"
+  },
+  {
+    "job_id": "8a769b04f392",
+    "title": "AI Engineer Intern",
+    "company": "Spearmint technologies",
+    "url": "https://in.indeed.com/viewjob?jk=969a59101902034f",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:28.020870",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/8a769b04f392"
+  },
+  {
+    "job_id": "b6dacb54321f",
+    "title": "AI Software Engineer",
+    "company": "Meru Land Private Limited",
+    "url": "https://in.indeed.com/viewjob?jk=d598bb89db4e4ee7",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:32.820185",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/b6dacb54321f"
+  },
+  {
+    "job_id": "341fb1f3bee2",
+    "title": "Expert Python Engineer",
+    "company": "Ciklum",
+    "url": "https://in.indeed.com/viewjob?jk=d2bb4363d391071c",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:35.979894",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/341fb1f3bee2"
+  },
+  {
+    "job_id": "e3a8f73ca2be",
+    "title": "AI Engineer",
+    "company": "Noveum AI",
+    "url": "https://www.linkedin.com/jobs/view/4430546965",
+    "status": "applied",
+    "match_score": 60,
+    "applied_at": "2026-06-25T15:33:38.153891",
+    "notes": "[SIMULATION MODE] Materials saved to /Users/ASUS/Desktop/Automated-AgentHire/data/applications/e3a8f73ca2be"
   }
 ]
